@@ -1,0 +1,8 @@
+{
+  "models": [
+    {
+      "slug": "isingchain_density",
+      "name": "Ising Chain Density"
+    }, 
+  ]
+}

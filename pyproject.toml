@@ -1,0 +1,10 @@
+[project]
+name = "simQJ"
+version = "0.7.0"
+dependencies = ["click"]
+
+[project.scripts]
+simQJ = "simQJ.cli:entry_point"
+
+[tool.setuptools]
+packages = ["simQJ"]

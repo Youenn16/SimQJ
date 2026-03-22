@@ -1,0 +1,5 @@
+if(EXISTS "/Users/youenn/Documents/0-Work/SimQJ_project/SimQJ_project/tests/unit_tests-b12d07c_tests.cmake")
+  include("/Users/youenn/Documents/0-Work/SimQJ_project/SimQJ_project/tests/unit_tests-b12d07c_tests.cmake")
+else()
+  add_test(unit_tests_NOT_BUILT-b12d07c unit_tests_NOT_BUILT-b12d07c)
+endif()
